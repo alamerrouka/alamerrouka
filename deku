@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DEKU</title>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 20px;
+background-color: #f9f9f9;
+color: #333;
+}
+
+header {
+text-align: center;
+padding: 10px;
+background-color: #3498db;
+color: #fff;
+}
+
+section {
+max-width: 600px;
+margin: 0 auto;
+background-color: #fff;
+border-radius: 8px;
+padding: 20px;
+margin-top: 20px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, p {
+text-align: center;
+color: #333;
+}
+
+a {
+color: #3498db;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+img {
+display: block;
+margin: 0 auto;
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Welcome To My Information Website</h1>
+</header>
+
+<section>
+<img src="https://telegra.ph/file/30a26c66925e8d1e13acf.jpg" alt=" ALAMER">
+<h2>My Info</h2>
+<p>HELLO! I'M [ALAMER]. I'M [Bot programmer and developer].</p>
+</section>
+
+<section>
+<h2>Interests</h2>
+<p>I Love [Drawing, music and programming].</p>
+</section>
+
+<section>
+<h2>contact with me</h2>
+<p>You can contact me via email: [AlamerDeku@gmail.com].</p>
+<p>Or you can talk to me via Telegram<a href="https://t.me/dev_alamer</a>.</p>
+</section>
+
+</body>
+</html>
